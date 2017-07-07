@@ -2,15 +2,13 @@
 
 feat(schema): modify the check that sets the column_default (defaultsTo) column definition (pull request #9)
 
-# The original README.md
-
-## Sails-generate-models
+# Sails-generate-models
 Generate models (and controllers) based on your database schema.
 
-### Warning
+## Warning
 This was built for a specific task, and has only been tested on MySQL.
 
-### Usage
+## Usage
 
 First install globally:
 
